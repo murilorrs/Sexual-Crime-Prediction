@@ -1,4 +1,4 @@
-# Projeto de Previsão de Crimes de Violência Sexual
+# Previsão de Crimes de Violência Sexual
 
 Este projeto utiliza regressão linear para prever o número de crimes de violência sexual em anos futuros com base em dados históricos. O objetivo é analisar tendências e realizar previsões para auxiliar na compreensão e prevenção desses crimes.
 
@@ -6,9 +6,11 @@ Este projeto utiliza regressão linear para prever o número de crimes de violê
 
 O modelo foi capaz de prever com sucesso os dados sobre a quantidade de casos cometidos ao longo dos anos. 
 
-O gráfico abaixo mostra os dados históricos e as previsões para anos futuros:
+Os gráficos abaixo mostram os dados históricos e as previsões para anos futuros:
 
-![Gráfico das Previsões](path/to/your/graph.png)
+![Gráfico das Previsões](/data/results/dispercao-previsao.png)
+![Gráfico das Previsões](/data/results/grafico.png)
+![Gráfico das Previsões](/data/results/table.png)
 
 ## Estrutura do Projeto
 
