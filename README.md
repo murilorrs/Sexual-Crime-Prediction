@@ -1,6 +1,6 @@
-# Previsão de Crimes de Violência Sexual
+# Previsão de Crimes de Violência Sexual no Brasil
 
-Este projeto utiliza regressão linear para prever o número de crimes de violência sexual em anos futuros com base em dados históricos. O objetivo é analisar tendências e realizar previsões para auxiliar na compreensão e prevenção desses crimes.
+Este projeto utiliza regressão linear para prever o número de crimes de violência sexual no Brasil em anos futuros com base em dados históricos. O objetivo é analisar tendências e realizar previsões para auxiliar na compreensão e prevenção desses crimes.
 
 ## Resultados
 
