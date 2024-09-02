@@ -32,7 +32,44 @@ De acordo com as previsões, o número de casos de violência sexual pode se apr
 
 ## Utilização
 
-Instale as dependêndias para utilizar o projeto:
+1. **Instale as dependêndias para utilizar o projeto:**
+   ```bash
+   pip install -r requirements.txt
+
+ ***
+
+# Sexual Violence Crime Forecasting in Brazil
+
+This project uses linear regression to forecast the number of sexual violence crimes in Brazil for future years based on historical data. The goal is to analyze trends and make predictions to aid in understanding and preventing these crimes.
+
+## Results
+
+The model successfully predicted the number of cases over the years. The graphs below show the historical data and forecasts for future years:
+
+![Forecast Graph](/data/results/dispercao-previsao.png)
+![Forecast Graph](/data/results/grafico.png)
+![Forecast Table](/data/results/tabela.png)
+
+### Conclusions
+
+According to the forecasts, the number of sexual violence cases could approach 100,000 by 2030. This increase is concerning and indicates a rising trend that needs urgent attention.
+
+## Project Structure
+
+1. **Data**: Public datasets on sexual violence and model results graphics.
+2. **Model**: An AI model capable of predicting sexual violence cases over the years with a good margin of accuracy.
+3. **Notebooks**: Data processing and general analysis of the datasets.
+
+## Technologies Used
+
+- **Python**: Programming language used.
+- **Pandas**: Data manipulation and analysis.
+- **Scikit-learn**: Linear regression modeling and training.
+- **Matplotlib**: Data visualization.
+
+## Usage
+
+Install the dependencies to use the project:
 
 ```bash
 pip install -r requirements.txt
